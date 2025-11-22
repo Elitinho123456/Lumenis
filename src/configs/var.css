@@ -1,0 +1,12 @@
+:root {
+  --lumenis: #8C0303;
+  --lumenis-deep: #0D0D0D;
+  --lumenis-dark: #260101;
+  --lumenis-medium: #400101;
+  --lumenis-bright: #730202;
+
+  --lumenis-text: #E6E6E6;
+  --lumenis-accent: #FF5733;
+}
+
+@import 'tailwindcss';

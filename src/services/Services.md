@@ -1,0 +1,1 @@
+Aqui vão todos os controles e gerenciamento de dados vindos do Backend.
