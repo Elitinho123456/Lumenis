@@ -1,12 +1,12 @@
-:root {
-  --lumenis: #8C0303;
-  --lumenis-deep: #0D0D0D;
-  --lumenis-dark: #260101;
-  --lumenis-medium: #400101;
-  --lumenis-bright: #730202;
+@import "tailwindcss";
 
-  --lumenis-text: #E6E6E6;
-  --lumenis-accent: #FF5733;
+@theme {
+  --color-lumenis: #8C0303;
+  --color-lumenis-deep: #0D0D0D;
+  --color-lumenis-dark: #260101;
+  --color-lumenis-medium: #400101;
+  --color-lumenis-bright: #730202;
+
+  --color-lumenis-text: #E6E6E6;
+  --color-lumenis-accent: #FF5733;
 }
-
-@import 'tailwindcss';
